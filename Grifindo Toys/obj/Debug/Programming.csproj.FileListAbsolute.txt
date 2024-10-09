@@ -1,0 +1,56 @@
+C:\Users\User\Downloads\Programming\Programming\bin\Debug\Programming.exe.config
+C:\Users\User\Downloads\Programming\Programming\bin\Debug\Programming.exe
+C:\Users\User\Downloads\Programming\Programming\bin\Debug\Programming.pdb
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.Login.resources
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.Properties.Resources.resources
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.exe
+C:\Users\User\Downloads\Programming\Programming\obj\Debug\Programming.pdb
+C:\Users\User\Downloads\Grifindo Toys\Programming\bin\Debug\Programming.exe.config
+C:\Users\User\Downloads\Grifindo Toys\Programming\bin\Debug\Programming.exe
+C:\Users\User\Downloads\Grifindo Toys\Programming\bin\Debug\Programming.pdb
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.Admin_Pannel.resources
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.Employee.resources
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.Login.resources
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.Properties.Resources.resources
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.Salary.resources
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.Setting.resources
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.exe
+C:\Users\User\Downloads\Grifindo Toys\Programming\obj\Debug\Programming.pdb
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.Admin_Pannel.resources
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.Employee.resources
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.Login.resources
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.Salary.resources
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.Setting.resources
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.exe
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\obj\Debug\Programming.pdb
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\bin\Debug\Programming.exe.config
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\bin\Debug\Programming.exe
+C:\Users\User\OneDrive\Desktop\Programming\Grifindo Toys\Programming\bin\Debug\Programming.pdb
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\bin\Debug\Programming.exe.config
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\bin\Debug\Programming.exe
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\bin\Debug\Programming.pdb
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.Admin_Pannel.resources
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.Employee.resources
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.Login.resources
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.Salary.resources
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.Setting.resources
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.exe
+C:\Users\User\OneDrive\Desktop\HND\Semester 01\Viva\Grifindo Toys\Programming\obj\Debug\Programming.pdb
